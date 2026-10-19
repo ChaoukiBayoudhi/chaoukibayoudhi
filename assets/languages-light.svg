@@ -1,47 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="340" viewBox="0 0 495 340" role="img" aria-labelledby="t d">
 <title id="t">Languages across 228 public repositories</title>
-<desc id="d">Java: 83, Python: 68, TypeScript: 15, C#: 14, C: 10, PHP: 8, Dart: 6, HTML: 5, JavaScript: 5, Other: 7</desc>
+<desc id="d">Java: 84, Python: 68, TypeScript: 15, C#: 14, C: 10, PHP: 8, Dart: 6, HTML: 5, JavaScript: 5, Other: 6</desc>
 <rect x="0.5" y="0.5" width="494" height="339" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="20" y="30" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1f2328">Languages across my repositories</text>
 <text x="20" y="49" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">Primary language of 228 public repositories (forks excluded)</text>
 <text x="122" y="76.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Java</text>
 <rect x="132" y="66" width="287" height="12" rx="2" fill="#eff2f5"/>
 <path d="M132,66 H415.0 A4,4 0 0 1 419.0,70 V74 A4,4 0 0 1 415.0,78 H132 Z" fill="#0A8F80"/>
-<text x="427" y="76.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">83 repos</text>
+<text x="427" y="76.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">84 repos</text>
 <text x="122" y="102.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Python</text>
 <rect x="132" y="92" width="287" height="12" rx="2" fill="#eff2f5"/>
-<path d="M132,92 H363.13253012048193 A4,4 0 0 1 367.13253012048193,96 V100 A4,4 0 0 1 363.13253012048193,104 H132 Z" fill="#0A8F80"/>
+<path d="M132,92 H360.33333333333337 A4,4 0 0 1 364.33333333333337,96 V100 A4,4 0 0 1 360.33333333333337,104 H132 Z" fill="#0A8F80"/>
 <text x="427" y="102.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">68 repos</text>
 <text x="122" y="128.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">TypeScript</text>
 <rect x="132" y="118" width="287" height="12" rx="2" fill="#eff2f5"/>
-<path d="M132,118 H179.86746987951807 A4,4 0 0 1 183.86746987951807,122 V126 A4,4 0 0 1 179.86746987951807,130 H132 Z" fill="#0A8F80"/>
+<path d="M132,118 H179.25 A4,4 0 0 1 183.25,122 V126 A4,4 0 0 1 179.25,130 H132 Z" fill="#0A8F80"/>
 <text x="427" y="128.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">15 repos</text>
 <text x="122" y="154.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">C#</text>
 <rect x="132" y="144" width="287" height="12" rx="2" fill="#eff2f5"/>
-<path d="M132,144 H176.40963855421688 A4,4 0 0 1 180.40963855421688,148 V152 A4,4 0 0 1 176.40963855421688,156 H132 Z" fill="#0A8F80"/>
+<path d="M132,144 H175.83333333333334 A4,4 0 0 1 179.83333333333334,148 V152 A4,4 0 0 1 175.83333333333334,156 H132 Z" fill="#0A8F80"/>
 <text x="427" y="154.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">14 repos</text>
 <text x="122" y="180.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">C</text>
 <rect x="132" y="170" width="287" height="12" rx="2" fill="#eff2f5"/>
-<path d="M132,170 H162.57831325301206 A4,4 0 0 1 166.57831325301206,174 V178 A4,4 0 0 1 162.57831325301206,182 H132 Z" fill="#0A8F80"/>
+<path d="M132,170 H162.16666666666666 A4,4 0 0 1 166.16666666666666,174 V178 A4,4 0 0 1 162.16666666666666,182 H132 Z" fill="#0A8F80"/>
 <text x="427" y="180.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">10 repos</text>
 <text x="122" y="206.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">PHP</text>
 <rect x="132" y="196" width="287" height="12" rx="2" fill="#eff2f5"/>
-<path d="M132,196 H155.66265060240963 A4,4 0 0 1 159.66265060240963,200 V204 A4,4 0 0 1 155.66265060240963,208 H132 Z" fill="#0A8F80"/>
+<path d="M132,196 H155.33333333333334 A4,4 0 0 1 159.33333333333334,200 V204 A4,4 0 0 1 155.33333333333334,208 H132 Z" fill="#0A8F80"/>
 <text x="427" y="206.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">8 repos</text>
 <text x="122" y="232.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Dart</text>
 <rect x="132" y="222" width="287" height="12" rx="2" fill="#eff2f5"/>
-<path d="M132,222 H148.74698795180723 A4,4 0 0 1 152.74698795180723,226 V230 A4,4 0 0 1 148.74698795180723,234 H132 Z" fill="#0A8F80"/>
+<path d="M132,222 H148.5 A4,4 0 0 1 152.5,226 V230 A4,4 0 0 1 148.5,234 H132 Z" fill="#0A8F80"/>
 <text x="427" y="232.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">6 repos</text>
 <text x="122" y="258.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">HTML</text>
 <rect x="132" y="248" width="287" height="12" rx="2" fill="#eff2f5"/>
-<path d="M132,248 H145.289156626506 A4,4 0 0 1 149.289156626506,252 V256 A4,4 0 0 1 145.289156626506,260 H132 Z" fill="#0A8F80"/>
+<path d="M132,248 H145.08333333333334 A4,4 0 0 1 149.08333333333334,252 V256 A4,4 0 0 1 145.08333333333334,260 H132 Z" fill="#0A8F80"/>
 <text x="427" y="258.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">5 repos</text>
 <text x="122" y="284.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">JavaScript</text>
 <rect x="132" y="274" width="287" height="12" rx="2" fill="#eff2f5"/>
-<path d="M132,274 H145.289156626506 A4,4 0 0 1 149.289156626506,278 V282 A4,4 0 0 1 145.289156626506,286 H132 Z" fill="#0A8F80"/>
+<path d="M132,274 H145.08333333333334 A4,4 0 0 1 149.08333333333334,278 V282 A4,4 0 0 1 145.08333333333334,286 H132 Z" fill="#0A8F80"/>
 <text x="427" y="284.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">5 repos</text>
 <text x="122" y="310.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Other</text>
 <rect x="132" y="300" width="287" height="12" rx="2" fill="#eff2f5"/>
-<path d="M132,300 H152.20481927710844 A4,4 0 0 1 156.20481927710844,304 V308 A4,4 0 0 1 152.20481927710844,312 H132 Z" fill="#0A8F80"/>
-<text x="427" y="310.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">7 repos</text>
+<path d="M132,300 H148.5 A4,4 0 0 1 152.5,304 V308 A4,4 0 0 1 148.5,312 H132 Z" fill="#0A8F80"/>
+<text x="427" y="310.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">6 repos</text>
 </svg>
