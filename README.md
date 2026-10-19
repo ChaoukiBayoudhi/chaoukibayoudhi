@@ -24,7 +24,10 @@ Integrated production & distribution scheduling · sustainable supply chain coor
 
 ### 📊 GitHub
 ![Chaouki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaoukiBayoudhi&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoukiBayoudhi&layout=compact&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <img alt="Languages across my repositories: Java, Python, TypeScript, C#, C, PHP, Dart and more" src="assets/languages-light.svg">
+</picture>
 
 ### 📫 Connect
 - 💼 Research & teaching profile: [LinkedIn](https://www.linkedin.com/in/bayoudhi-chaouki-91a28319/)

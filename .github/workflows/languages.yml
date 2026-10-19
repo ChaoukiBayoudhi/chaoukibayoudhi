@@ -1,0 +1,36 @@
+# Regenerate the language card weekly (and on demand) from all public repos.
+name: Language card
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"   # Mondays 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths: [ "scripts/languages.py", ".github/workflows/languages.yml" ]
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Render SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/languages.py ChaoukiBayoudhi
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/languages-*.svg
+          git diff --cached --quiet || git commit -m "chore: refresh language card"
+          git push
