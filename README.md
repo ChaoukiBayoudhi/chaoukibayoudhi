@@ -1,31 +1,32 @@
 # Hi, I'm Chaouki Bayoudhi 👋
 
-**PhD Researcher in Supply Chain & Scheduling Optimization @ ISG Tunis · Computer Science Educator (20+ yrs) · AI & Secure Software Engineer**
+**Computer Science Teacher at ISG Tunis (since 2003) · PhD student in supply-chain scheduling optimization (SMART Lab) · Secure software & applied AI**
 
-🔬 **Thesis:** metaheuristics + machine learning for multi-level production & distribution scheduling and sustainable supply chains
-🤖 **Applied AI:** LLMs · RAG · Agentic AI (LangGraph · Model Context Protocol)
-🛡️ **Secure engineering:** JWT · OAuth 2.1 · Spring Security · OWASP · CTF organizer @ Securinets ISG
-🧰 **Stack:** Python · Java · Django/DRF · Angular · Flutter · Docker · Kubernetes · GitHub Actions
+🔬 **Research:** integrated production & distribution scheduling for sustainable supply chains, using metaheuristics + machine learning
+🤖 **Applied AI:** LLM agents · RAG · Model Context Protocol (MCP) · LangGraph
+🛡️ **Secure engineering:** JWT · OAuth 2.1 · MFA/WebAuthn · OWASP · CTF organizer @ Securinets ISG
+🧰 **Stack:** Python · Java · Django/DRF · Angular · Flutter · PostgreSQL · Docker · GitHub Actions
 
 ---
 
 ### 🚀 Featured Projects
+Reference implementations I build for teaching and experimentation, not commercial products.
+
 | Project | What it is | Stack |
 |---|---|---|
-| 🔐 **Secure E-Commerce** | Full secure multi-client system | Django API · Angular 21 · Flutter · JWT/MFA/WebAuthn |
-| 🕸️ **GraphQL APIs** | Supply-chain & fleet-management labs | Django · Strawberry GraphQL |
-| 🤖 **AI-Agent-Lab** | Agentic AI experiments | Python · LangGraph |
+| 🔐 [Secure E-Commerce API](https://github.com/ChaoukiBayoudhi/secure_ecommerce_project_in_Django) · [Angular client](https://github.com/ChaoukiBayoudhi/secure-ecommerce-angular-client) · [Flutter client](https://github.com/ChaoukiBayoudhi/secure_ecommerce_flutter) | Secure multi-client system built for the Secure Programming course at ISG Tunis | Django REST · Angular · Flutter · JWT/MFA/WebAuthn |
+| 🤖 [AI Agent Lab](https://github.com/ChaoukiBayoudhi/ai-agent-lab) | LLM agents wired to MCP tool servers and agent-to-agent delegation | Python · Django · MCP · pytest |
 
 ---
 
 ### 🧭 Research Interests
-Operations research · production & distribution scheduling · sustainable supply chain coordination · metaheuristic optimization · machine learning · applied LLMs & agentic AI · secure software engineering
+Integrated production & distribution scheduling · sustainable supply chain coordination · metaheuristic optimization · machine learning for optimization · secure AI-assisted software engineering
 
 ### 📊 GitHub
 ![Chaouki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaoukiBayoudhi&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoukiBayoudhi&layout=compact&hide_border=true)
 
 ### 📫 Connect
-- 💼 LinkedIn: [in/bayoudhi-chaouki-91a28319](https://www.linkedin.com/in/bayoudhi-chaouki-91a28319/)
-- 🐙 GitHub: [@ChaoukiBayoudhi](https://github.com/ChaoukiBayoudhi) · 200+ public repositories
+- 💼 Research & teaching profile: [LinkedIn](https://www.linkedin.com/in/bayoudhi-chaouki-91a28319/)
+- 🆔 ORCID: [0009-0002-9559-7438](https://orcid.org/0009-0002-9559-7438)
 - 📧 chaouki.bayoudhi@isg.u-tunis.tn
