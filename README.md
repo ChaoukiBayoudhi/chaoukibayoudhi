@@ -30,6 +30,6 @@ Integrated production & distribution scheduling · sustainable supply chain coor
 </picture>
 
 ### 📫 Connect
-- 💼 Research & teaching profile: [LinkedIn](https://www.linkedin.com/in/bayoudhi-chaouki-91a28319/)
+- 💼 Research & teaching profile: [LinkedIn](https://www.linkedin.com/in/chaouki-bayoudhi-91a28319/)
 - 🆔 ORCID: [0009-0002-9559-7438](https://orcid.org/0009-0002-9559-7438)
 - 📧 chaouki.bayoudhi@isg.u-tunis.tn
