@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="340" viewBox="0 0 495 340" role="img" aria-labelledby="t d">
-<title id="t">Languages across 228 public repositories</title>
-<desc id="d">Java: 84, Python: 68, TypeScript: 15, C#: 14, C: 10, PHP: 8, Dart: 6, HTML: 5, JavaScript: 5, Other: 6</desc>
+<title id="t">Languages across 229 public repositories</title>
+<desc id="d">Java: 84, Python: 70, TypeScript: 15, C#: 14, C: 10, PHP: 8, Dart: 6, HTML: 5, JavaScript: 5, Other: 6</desc>
 <rect x="0.5" y="0.5" width="494" height="339" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="20" y="30" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1f2328">Languages across my repositories</text>
-<text x="20" y="49" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">Primary language of 228 public repositories (forks excluded)</text>
+<text x="20" y="49" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">Primary language of 229 public repositories (forks excluded)</text>
 <text x="122" y="76.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Java</text>
 <rect x="132" y="66" width="287" height="12" rx="2" fill="#eff2f5"/>
 <path d="M132,66 H415.0 A4,4 0 0 1 419.0,70 V74 A4,4 0 0 1 415.0,78 H132 Z" fill="#0A8F80"/>
 <text x="427" y="76.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">84 repos</text>
 <text x="122" y="102.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Python</text>
 <rect x="132" y="92" width="287" height="12" rx="2" fill="#eff2f5"/>
-<path d="M132,92 H360.33333333333337 A4,4 0 0 1 364.33333333333337,96 V100 A4,4 0 0 1 360.33333333333337,104 H132 Z" fill="#0A8F80"/>
-<text x="427" y="102.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">68 repos</text>
+<path d="M132,92 H367.16666666666663 A4,4 0 0 1 371.16666666666663,96 V100 A4,4 0 0 1 367.16666666666663,104 H132 Z" fill="#0A8F80"/>
+<text x="427" y="102.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">70 repos</text>
 <text x="122" y="128.0" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">TypeScript</text>
 <rect x="132" y="118" width="287" height="12" rx="2" fill="#eff2f5"/>
 <path d="M132,118 H179.25 A4,4 0 0 1 183.25,122 V126 A4,4 0 0 1 179.25,130 H132 Z" fill="#0A8F80"/>
